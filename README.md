@@ -12,7 +12,7 @@
 
 <br />
 <div align="center">
-  <img src="images/website.png" alt="Logo" width="80" height="80">
+  <img src="images/website.png" alt="Logo" width="1000" height="500">
  </div>
  
  
@@ -20,12 +20,12 @@
  
  <br />
 <div align="center">
-  <img src="images/terminal.png" alt="Logo" width="80" height="80">
+  <img src="images/terminal.png" alt="Logo" width="800" height="500">
  </div>
  
  <br />
   At the end all the data is collected, processed and saved to an **excel sheet** :
   <div align="center">
-  <img src="images/sheet.png" alt="Logo" width="80" height="80">
+  <img src="images/sheet.png" alt="Logo" width="1300" height="500">
  </div>
  
